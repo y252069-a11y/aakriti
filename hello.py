@@ -1,3 +1,2 @@
-print ("hello world")
-print ("今日は4月30日です")
-
+name=input("あなたの名前は田中です")
+age=input("あなた20歳です”)
